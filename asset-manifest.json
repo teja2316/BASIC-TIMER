@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BASIC-TIMER/static/css/main.44b6a633.css",
+    "main.js": "/BASIC-TIMER/static/js/main.26d6d2e2.js",
+    "static/js/787.2c53e2a9.chunk.js": "/BASIC-TIMER/static/js/787.2c53e2a9.chunk.js",
+    "index.html": "/BASIC-TIMER/index.html",
+    "main.44b6a633.css.map": "/BASIC-TIMER/static/css/main.44b6a633.css.map",
+    "main.26d6d2e2.js.map": "/BASIC-TIMER/static/js/main.26d6d2e2.js.map",
+    "787.2c53e2a9.chunk.js.map": "/BASIC-TIMER/static/js/787.2c53e2a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44b6a633.css",
+    "static/js/main.26d6d2e2.js"
+  ]
+}
