@@ -1,0 +1,64 @@
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.timerOne {
+  justify-content: center;
+  text-align: center;
+   padding: 50px;
+  margin: 20px;
+}
+
+
+
+.card {
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  background-color: salmon ;
+  transition: 0.3s;
+  width: 40%;
+  border-radius: 20px;
+}
+
+.restart {
+  font-size: medium;
+  width: 80px;
+  height: 40px;
+  background-color: teal;
+  margin-right: 20px;
+
+}
+
+.stop {
+  font-size: medium;
+  width: 80px;
+  height: 40px;
+  background-color: red;
+  margin-left: 20px;
+}
